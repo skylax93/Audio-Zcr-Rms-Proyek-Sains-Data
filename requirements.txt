@@ -1,5 +1,6 @@
-lightgbm==4.1.0
-numpy==1.25.2
-pandas==1.5.3
+scipy==1.10.1
+librosa==0.9.1
+pickleshare==0.7.5
 scikit_learn==1.2.2
+matplotlib==3.6.0
 streamlit==1.27.2
